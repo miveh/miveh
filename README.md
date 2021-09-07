@@ -20,8 +20,7 @@ _`I'm a back-end developer, developing with Django framework and maybe Django Re
 You can find me on:
 [![Twitter][1.2]][1]
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://user-images.githubusercontent.com/46049723/132354657-f966c700-640f-4c4c-9187-b8bbefa8cad7.png
 
 <!-- Links to your social media accounts -->
 
