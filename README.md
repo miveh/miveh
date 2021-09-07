@@ -2,6 +2,7 @@
 
 ## 🌴 About Me:
 _`I'm a back-end developer, developing with Django framework and maybe Django Rest. However, I'm interested in all the Python frameworks and even all the other backend programming languages. I have to say about foront-end programming, although I am not very interested, but sometimes I practice, Because it is both necessary and beautiful`_ ✨  .
+
 ## 🌴 What I know:
 <span><img src="https://user-images.githubusercontent.com/46049723/132345989-090ca28d-c4a6-453c-b71f-ffe3f6d96fee.png" width=30 height=30 align=center></span>
 <img src="https://user-images.githubusercontent.com/46049723/132349020-3323c299-bf19-4420-be5e-15e62c7df4b4.png" width=60 height=30 align=center>
@@ -16,6 +17,7 @@ _`I'm a back-end developer, developing with Django framework and maybe Django Re
 <img src="https://user-images.githubusercontent.com/46049723/132346009-3d830260-587f-49aa-b78f-1ce1f4348cbb.jpg" width=35 height=30 align=center>
 <img src="https://user-images.githubusercontent.com/46049723/132346022-87e23fbc-3699-497a-b30e-41f7d7c341d2.png" width=30 height=30 align=center>
 <img src="https://user-images.githubusercontent.com/46049723/132346027-277bca24-bf03-494b-bb65-b13a618413c1.jpg" width=30 height=30 align=center>
+
 ## 🌴 Reach me:
 [![linkeidn][1.2]][1]
 
