@@ -16,3 +16,14 @@ _`I'm a back-end developer, developing with Django framework and maybe Django Re
 <img src="https://user-images.githubusercontent.com/46049723/132346009-3d830260-587f-49aa-b78f-1ce1f4348cbb.jpg" width=35 height=30 align=center>
 <img src="https://user-images.githubusercontent.com/46049723/132346022-87e23fbc-3699-497a-b30e-41f7d7c341d2.png" width=30 height=30 align=center>
 <img src="https://user-images.githubusercontent.com/46049723/132346027-277bca24-bf03-494b-bb65-b13a618413c1.jpg" width=30 height=30 align=center>
+## 🌴 Reach me:
+You can find me on:
+[![Twitter][1.2]][1]
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/mivehchi/
+
