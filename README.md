@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/46049723/132352899-ac1f3804-93e2-4315-b32f-b02dcf32ba18.gif" height=200>
+<img src="https://user-images.githubusercontent.com/46049723/132352899-ac1f3804-93e2-4315-b32f-b02dcf32ba18.gif" height=200 align=center>
 
 ## 🌴 About Me:
 _`I'm a back-end developer, developing with Django framework and maybe Django Rest. However, I'm interested in all the Python frameworks and even all the other backend programming languages. I have to say about foront-end programming, although I am not very interested, but sometimes I practice, Because it is both necessary and beautiful`_ ✨  .
