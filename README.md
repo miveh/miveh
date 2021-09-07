@@ -8,8 +8,8 @@ I'm a back-end developer, developing with Django framework and maybe Django Rest
 <img src="https://user-images.githubusercontent.com/46049723/132345970-a4900d52-c86e-4425-a826-94c82c925992.png" width=30 height=30 align=center>
 <img src="https://user-images.githubusercontent.com/46049723/132345989-090ca28d-c4a6-453c-b71f-ffe3f6d96fee.png" width=30 height=30 align=center>
 <img src="https://user-images.githubusercontent.com/46049723/132345998-d32b5c31-dd5f-452e-b711-e73b64523eb9.jpg" width=30 height=30 align=center>
-<img src="https://user-images.githubusercontent.com/46049723/132346006-0eda5079-aa11-4eb0-8934-ff6fdd58c0aa.jpg" width=30 height=30 align=center>
-<img src="https://user-images.githubusercontent.com/46049723/132346009-3d830260-587f-49aa-b78f-1ce1f4348cbb.jpg" width=30 height=30 align=center>
-<img src="https://user-images.githubusercontent.com/46049723/132346014-bbc287d8-fd5c-43a2-ac45-673c90517f57.png" width=30 height=30 align=center>
+<img src="https://user-images.githubusercontent.com/46049723/132348469-4406576c-95ac-4935-8a45-5a3d61136c2d.png" width=30 height=30 align=center>
+<img src="https://user-images.githubusercontent.com/46049723/132346009-3d830260-587f-49aa-b78f-1ce1f4348cbb.jpg" width=35 height=30 align=center>
+<img src="https://user-images.githubusercontent.com/46049723/132346014-bbc287d8-fd5c-43a2-ac45-673c90517f57.png" width=30 height=60 align=center>
 <img src="https://user-images.githubusercontent.com/46049723/132346022-87e23fbc-3699-497a-b30e-41f7d7c341d2.png" width=30 height=30 align=center>
 <img src="https://user-images.githubusercontent.com/46049723/132346027-277bca24-bf03-494b-bb65-b13a618413c1.jpg" width=30 height=30 align=center>
