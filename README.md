@@ -17,7 +17,6 @@ _`I'm a back-end developer, developing with Django framework and maybe Django Re
 <img src="https://user-images.githubusercontent.com/46049723/132346022-87e23fbc-3699-497a-b30e-41f7d7c341d2.png" width=30 height=30 align=center>
 <img src="https://user-images.githubusercontent.com/46049723/132346027-277bca24-bf03-494b-bb65-b13a618413c1.jpg" width=30 height=30 align=center>
 ## 🌴 Reach me:
-You can find me on:
 [![linkeidn][1.2]][1]
 
 [1.2]: https://user-images.githubusercontent.com/46049723/132355460-865b964c-c031-4dd7-b0e7-6a05a111389f.png
