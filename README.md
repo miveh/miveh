@@ -20,7 +20,7 @@ _`I'm a back-end developer, developing with Django framework and maybe Django Re
 You can find me on:
 [![linkeidn][1.2]][1]
 
-[1.2]: https://user-images.githubusercontent.com/46049723/132354657-f966c700-640f-4c4c-9187-b8bbefa8cad7.png
+[1.2]: https://user-images.githubusercontent.com/46049723/132355460-865b964c-c031-4dd7-b0e7-6a05a111389f.png
 
 <!-- Links to your social media accounts -->
 
