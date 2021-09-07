@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/IeuCsVmjwaEUzeuqz2/giphy.gif?cid=ecf05e47opv8ksa14dvzof0u1274tefn0xw209plmgulbf4u&rid=giphy.gif&ct=g">
+<img src="https://media2.giphy.com/media/IeuCsVmjwaEUzeuqz2/giphy.gif?cid=ecf05e47opv8ksa14dvzof0u1274tefn0xw209plmgulbf4u&rid=giphy.gif&ct=g" height=100>
 
 ## 🌴 About Me:
 _`I'm a back-end developer, developing with Django framework and maybe Django Rest. However, I'm interested in all the Python frameworks and even all the other backend programming languages. I have to say about foront-end programming, although I am not very interested, but sometimes I practice, Because it is both necessary and beautiful`_ ✨  .
