@@ -4,7 +4,7 @@
 _`I'm a back-end developer, developing with Django framework and maybe Django Rest. However, I'm interested in all the Python frameworks and even all the other backend programming languages. I have to say about foront-end programming, although I am not very interested, but sometimes I practice, Because it is both necessary and beautiful`_ ✨  .
 
 
-## 🌴 What I know:
+## 🌴 My technology friends:
 <span><img src="https://user-images.githubusercontent.com/46049723/132345989-090ca28d-c4a6-453c-b71f-ffe3f6d96fee.png" width=30 height=30 align=center></span>
 <img src="https://user-images.githubusercontent.com/46049723/132349020-3323c299-bf19-4420-be5e-15e62c7df4b4.png" width=60 height=30 align=center>
 <img src="https://user-images.githubusercontent.com/46049723/132346014-bbc287d8-fd5c-43a2-ac45-673c90517f57.png" width=60 height=30 align=center>
